@@ -50,7 +50,6 @@ termux-setup-storage
 ### Move focal-xfce.tar.xz to termux's home
 ```
 mv /sdcard/download/focal-xfce.tar.xz ~/
-h
 ```
 ### Unzip Ubuntu Distro
 ```
