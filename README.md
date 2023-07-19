@@ -77,6 +77,10 @@ bash ~/focal-xfce.sh
 ```
 xfce
 ```
+#### Delete some bugs
+```
+rm -rf /usr/bin/.l2s.perlbug0001 /usr/bin/perlthan* /usr/bin/perlbug
+```
 #### Change Style (Default is windows style)
 
 ##### Change to gold style
@@ -91,6 +95,7 @@ exit
 ```
 windows
 ```
+ 
 ## Termux 
 [Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk) 
 ## Termux-x11 
